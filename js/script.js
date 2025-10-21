@@ -44,17 +44,17 @@ bangladeshFlag.addEventListener("click", () => {
 });
 afghanistanFlag.addEventListener("click", () => {
   flag.innerHTML =
-    '<img src="images/afghanistan.png" alt="Afghanistan Flag" width="500" height="300">';
+    '<img src="./images/afghanistan.png" alt="Afghanistan Flag" width="500" height="300">';
 });
 palestineFlag.addEventListener("click", () => {
   flag.innerHTML =
-    '<img src="images/palestine.png" alt="Palestine Flag" width="500" height="300">';
+    '<img src="./images/palestine.png" alt="Palestine Flag" width="500" height="300">';
 });
 bhutan.addEventListener("click", () => {
   flag.innerHTML =
-    '<img src="images/bhutan.png" alt="Bhutan Flag" width="500" height="300">';
+    '<img src="./images/bhutan.png" alt="Bhutan Flag" width="500" height="300">';
 });
 lebanon.addEventListener("click", () => {
   flag.innerHTML =
-    '<img src="images/lebanon.png" alt="Lebanon Flag" width="500" height="300">';
+    '<img src="./images/lebanon.png" alt="Lebanon Flag" width="500" height="300">';
 });

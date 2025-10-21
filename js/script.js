@@ -27,8 +27,8 @@ bangladeshBtn.addEventListener("click", () => {
   red.style.background = "#DA291C";
 });
 resetBtn.addEventListener("click", () => {
-  green.style.background = "#eeeeee";
-  red.style.background = "#d3d3d3";
+  green.style.background = "#d3d3d3";
+  red.style.background = "#bebebe";
 });
 
 const flag = document.querySelector(".flag");
